@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Matteo</h1>
 <h3 align="center">A junior frontend developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteo2302&label=Profile%20views&color=0e75b6&style=flat" alt="matteo2302" /> </p>
 
 - I’m currently learning **Vue and Laravel**
 
